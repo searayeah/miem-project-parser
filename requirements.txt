@@ -1,0 +1,4 @@
+schedule==1.1.0
+gspread==3.7.0
+pandas==1.2.4
+requests==2.25.1
