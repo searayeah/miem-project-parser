@@ -1,4 +1,4 @@
-# MIEM-project-parser
+# miem-project-parser
 
 ## About
 
